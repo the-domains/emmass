@@ -1,0 +1,14 @@
+layout_spectrum: 0.03195805149152875
+typography_spectrum: 0.16997993201948702
+color:
+  brandStrength: 0.5255553643219173
+  lightness: 0.5908957885112613
+  saturation: 0.7352868390735239
+  rhythmicContrast: 0.17565294401720166
+  brandColors:
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
+name: EmMass
